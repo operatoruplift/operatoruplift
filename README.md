@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://operatoruplift.com/"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/03-uplift.png?v=3a0d314df1" alt="Now building: Operator Uplift. A stake in keeping your word. Pick one commitment and prove it every day with a photo. Practice for free, or stake money on it: keep your word and your stake comes back. Built on Solana, Web + Android, Daily photo proof, AI proof review. operatoruplift.com" width="100%"></a>
+  <a href="https://operatoruplift.com/"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/03-uplift.png?v=4f42163cbf" alt="Now building: Operator Uplift. A stake in keeping your word. Pick one commitment and prove it every day with a photo. Practice for free, or stake money on it: keep your word and your stake comes back. Built on Solana, Live in the Seeker dApp Store, Daily photo proof, AI proof review. operatoruplift.com" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/RVAClassic/status/2095538330347962594"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-dark.png?v=2ff34bd409"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-light.png?v=62a730f58f"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-light.png?v=62a730f58f" alt="Operator Uplift so far. Winner: Hackathon win, Superteam Thailand × DFlow, with Operator Uplift. $1K: Solana Foundation grant, awarded through Superteam Malaysia. $0: To start a commitment, practice challenges need no deposit and no wallet signature." width="100%"></picture></a>
+  <a href="https://operatoruplift.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-dark.png?v=774adeb51f"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-light.png?v=67beddf56b"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/04-receipts-light.png?v=67beddf56b" alt="Operator Uplift so far. Live: Seeker dApp Store, the Android app is live on Solana Mobile. Winner: Hackathon win, Superteam Thailand × DFlow, with Operator Uplift. $1K: Solana Foundation grant, awarded through Superteam Malaysia. $0: To start a commitment, practice challenges need no deposit and no wallet signature." width="100%"></picture></a>
 </p>
 
 <p align="center">
@@ -73,20 +73,25 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rvaclassic/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/21-quote-dark.png?v=c127085287"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/21-quote-light.png?v=8300a7f739"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/21-quote-light.png?v=8300a7f739" alt="“Matt is a rare global entrepreneur who can operate successfully across multiple regions.” Royston G. King, Founder, MasterScaling. LinkedIn recommendation." width="100%"></picture></a>
+  <a href="https://rvaclassic.xyz/#articles"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/21-press.png?v=22e101ee2a" alt="Featured in: CEO Weekly, &quot;Matt Sim on What Elite Esports Taught Him About Performance&quot;; Voyage New York, &quot;Matt Sim and the Case for Depth Over Breadth&quot;; New York Weekly, &quot;Matt Sim and the Idea That Discipline Is Built, Not Born&quot; (branded content)." width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://cal.com/rvaclassic/15min"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/22-cta.png?v=98948c1ccf" alt="Let’s build something. From the product to the story that launches it. Custom product, GTM and launch video partner: $2,500+. Scope, milestones and delivery agreed before kickoff. Starter Launch Drop: website + launch video: $100. One time, then $50/month for hosting and maintenance. Book a 15-min call." width="100%"></a>
+  <a href="https://www.linkedin.com/in/rvaclassic/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/22-quote-dark.png?v=c127085287"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/22-quote-light.png?v=8300a7f739"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/22-quote-light.png?v=8300a7f739" alt="“Matt is a rare global entrepreneur who can operate successfully across multiple regions.” Royston G. King, Founder, MasterScaling. LinkedIn recommendation." width="100%"></picture></a>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/23-find-me-dark.png?v=0004b91877"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/23-find-me-light.png?v=a5b9d538c1"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/23-find-me-light.png?v=a5b9d538c1" alt="Find me. Building in public from Southeast Asia." width="100%"></picture>
+  <a href="https://cal.com/rvaclassic/15min"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/23-cta.png?v=80308df448" alt="Let’s build something. From the product to the story that launches it. Custom product, GTM and launch video partner: $2,500+. Scope, milestones and delivery agreed before kickoff. Starter Launch Drop: website + launch video: $100. One time, then $50/month for hosting and maintenance. Book a 15-min call at cal.com/rvaclassic, or email operatoruplift@gmail.com." width="100%"></a>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/24-find-me-dark.png?v=0004b91877"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/24-find-me-light.png?v=a5b9d538c1"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/24-find-me-light.png?v=a5b9d538c1" alt="Find me. Building in public from Southeast Asia." width="100%"></picture>
 </p>
 
 <p align="center">
   <a href="https://x.com/rvaclassic"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-x.png?v=a144c5d2aa" alt="X: @RVAClassic" height="44"></a>
   <a href="https://www.linkedin.com/in/rvaclassic/"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-linkedin.png?v=da5ea84a03" alt="LinkedIn: Matt Sim" height="44"></a>
+  <a href="mailto:operatoruplift@gmail.com"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-email.png?v=7763d3b614" alt="Email: operatoruplift@gmail.com" height="44"></a>
   <a href="https://www.tiktok.com/@rvaclassic"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-tiktok.png?v=ccaf5b3dbc" alt="TikTok: @rvaclassic" height="44"></a>
   <a href="https://www.youtube.com/@rvaclassic"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-youtube.png?v=caf17b3174" alt="YouTube: @rvaclassic" height="44"></a>
   <a href="https://www.instagram.com/rvaclassic/"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/chip-instagram.png?v=94f663d27a" alt="Instagram: @rvaclassic" height="44"></a>

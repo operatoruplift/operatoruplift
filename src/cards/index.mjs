@@ -4,7 +4,7 @@ import { before, wins } from './story.mjs';
 import { buildsIntro, findMe, intro, moreBuilds, quote, receipts, sections } from './text.mjs';
 import { chips, tiles } from './builds.mjs';
 import { cta, hero } from './hero.mjs';
-import { events, media } from './create.mjs';
+import { events, media, press } from './create.mjs';
 import { uplift } from './uplift.mjs';
 
 const pairs = (list) => list.reduce((rows, card, i) => (i % 2 ? rows : [...rows, list.slice(i, i + 2)]), []);
@@ -24,6 +24,7 @@ const BLOCKS = [
   { layout: 'full', cards: [sections.create] },
   { layout: 'full', cards: [events] },
   { layout: 'full', cards: [media] },
+  { layout: 'full', cards: [press] },
   { layout: 'full', cards: [quote] },
   { layout: 'full', cards: [cta] },
   { layout: 'full', cards: [findMe] },

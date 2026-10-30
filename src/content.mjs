@@ -4,6 +4,8 @@
 // Published image location; the profile repo must be public with these files on main.
 export const RAW_BASE = 'https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/';
 
+export const EMAIL = 'operatoruplift@gmail.com';
+
 export const LINKS = {
   site: 'https://rvaclassic.xyz/',
   builder: 'https://rvaclassic.xyz/#builder',
@@ -11,10 +13,11 @@ export const LINKS = {
   events: 'https://rvaclassic.xyz/#events',
   creator: 'https://rvaclassic.xyz/#creator',
   press: 'https://rvaclassic.xyz/#press',
+  articles: 'https://rvaclassic.xyz/#articles',
   services: 'https://rvaclassic.xyz/#services',
   uplift: 'https://operatoruplift.com/',
-  dflowWin: 'https://x.com/RVAClassic/status/2095538330347962594',
   call: 'https://cal.com/rvaclassic/15min',
+  email: `mailto:${EMAIL}`,
   repos: 'https://github.com/operatoruplift?tab=repositories',
   recommendation: 'https://www.linkedin.com/in/rvaclassic/',
 };
@@ -53,12 +56,13 @@ export const UPLIFT = {
   name: 'Operator Uplift',
   tagline: ['A stake in keeping', 'your word.'],
   body: 'Pick one commitment and prove it every day with a photo. Practice for free, or stake money on it: keep your word and your stake comes back.',
-  badges: ['Built on Solana', 'Web + Android', 'Daily photo proof', 'AI proof review'],
+  badges: ['Built on Solana', 'Live in the Seeker dApp Store', 'Daily photo proof', 'AI proof review'],
   cta: 'operatoruplift.com',
   screens: ['01-commit.jpg', '03-today.jpg', '04-journey.jpg'],
 };
 
 export const RECEIPTS = [
+  { title: 'Seeker dApp Store', sub: 'the Android app is live on Solana Mobile', value: 'Live' },
   { title: 'Hackathon win', sub: 'Superteam Thailand × DFlow, with Operator Uplift', value: 'Winner' },
   { title: 'Solana Foundation grant', sub: 'awarded through Superteam Malaysia', value: '$1K' },
   { title: 'To start a commitment', sub: 'practice challenges need no deposit and no wallet signature', value: '$0' },
@@ -204,6 +208,17 @@ export const MEDIA = {
   films: 'Launch video and product demo for Helm Trading.',
 };
 
+// The portfolio marks these as branded content, and the brand guide says paid placements are identified.
+export const PRESS = {
+  title: 'Featured in',
+  tag: 'Branded content',
+  articles: [
+    { logo: 'site/press-ceo-weekly-logo.png', outlet: 'CEO Weekly', title: 'Matt Sim on What Elite Esports Taught Him About Performance' },
+    { logo: 'site/press-voyage-logo.png', outlet: 'Voyage New York', title: 'Matt Sim and the Case for Depth Over Breadth' },
+    { logo: 'site/press-ny-weekly-logo.png', outlet: 'New York Weekly', title: 'Matt Sim and the Idea That Discipline Is Built, Not Born' },
+  ],
+};
+
 export const QUOTE = {
   text: 'Matt is a rare global entrepreneur who can operate successfully across multiple regions.',
   name: 'Royston G. King',
@@ -229,6 +244,7 @@ export const FIND_ME = {
 export const SOCIALS = [
   { id: 'x', label: '@RVAClassic', url: 'https://x.com/rvaclassic', alt: 'X: @RVAClassic' },
   { id: 'linkedin', label: 'Matt Sim', url: 'https://www.linkedin.com/in/rvaclassic/', alt: 'LinkedIn: Matt Sim' },
+  { id: 'email', label: EMAIL, url: LINKS.email, alt: `Email: ${EMAIL}` },
   { id: 'tiktok', label: '@rvaclassic', url: 'https://www.tiktok.com/@rvaclassic', alt: 'TikTok: @rvaclassic' },
   { id: 'youtube', label: '@rvaclassic', url: 'https://www.youtube.com/@rvaclassic', alt: 'YouTube: @rvaclassic' },
   { id: 'instagram', label: '@rvaclassic', url: 'https://www.instagram.com/rvaclassic/', alt: 'Instagram: @rvaclassic' },

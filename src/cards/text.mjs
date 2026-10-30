@@ -59,7 +59,7 @@ export const receipts = {
   id: 'receipts',
   kind: 'float',
   width: W,
-  link: LINKS.dflowWin,
+  link: LINKS.uplift,
   alt: 'Operator Uplift so far. ' + RECEIPTS.map((r) => `${r.value}: ${r.title}, ${r.sub}.`).join(' '),
   css: (t) => `
 #card{width:${W}px;padding:14px 16px 10px;color:${t.text}}

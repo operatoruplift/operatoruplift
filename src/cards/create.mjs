@@ -1,5 +1,5 @@
-// Create: events, then films, interviews and speaking.
-import { EVENTS, LINKS, MEDIA } from '../content.mjs';
+// Create: events, then films, interviews and speaking, then articles.
+import { EVENTS, LINKS, MEDIA, PRESS } from '../content.mjs';
 import { BRAND, asset, esc } from '../theme.mjs';
 
 const W = 880;
@@ -81,5 +81,32 @@ h2{font-size:50px}
     <dt>Podcasts</dt><dd>${MEDIA.podcasts.map(esc).join('<br>')}</dd>
     <dt>Client films</dt><dd>${esc(MEDIA.films)}</dd>
   </dl>
+</div>`,
+};
+
+export const press = {
+  id: 'press',
+  kind: 'poster',
+  width: W,
+  link: LINKS.articles,
+  alt: `${PRESS.title}: ` + PRESS.articles.map((a) => `${a.outlet}, "${a.title}"`).join('; ') + ` (${PRESS.tag.toLowerCase()}).`,
+  css: () => `
+#card{width:${W}px;padding:44px 48px 40px}
+.head{display:flex;align-items:baseline;justify-content:space-between;gap:20px}
+h2{font-size:50px}
+.head .label{color:${BRAND.mutedDark}}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:26px}
+article{display:flex;flex-direction:column;padding:22px 20px 20px;border-radius:14px;background:rgba(244,244,246,.04);box-shadow:inset 0 0 0 1px ${LINE}}
+article img{height:26px;max-width:100%;object-fit:contain;object-position:left center}
+article h3{margin-top:18px;font:700 22px/1.16 Saira;letter-spacing:-.01em}
+article p{margin-top:auto;padding-top:16px;font:500 14.5px/1 'Space Grotesk';color:${BRAND.lavender}}
+`,
+  html: () => `
+<div id="card" class="poster">
+  <div class="glow" style="width:360px;height:360px;left:-160px;bottom:-200px;background:${BRAND.lavender};opacity:.18"></div>
+  <div class="head"><h2 class="display">${esc(PRESS.title)}</h2><p class="label">${esc(PRESS.tag)}</p></div>
+  <div class="grid">
+    ${PRESS.articles.map((a) => `<article><img src="${asset(a.logo)}" alt=""><h3>${esc(a.title)}</h3><p>${esc(a.outlet)}</p></article>`).join('\n    ')}
+  </div>
 </div>`,
 };

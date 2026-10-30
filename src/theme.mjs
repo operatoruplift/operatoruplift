@@ -71,6 +71,9 @@ export function icon(id, color = 'currentColor', size = 22) {
   if (id === 'linkedin') {
     return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" aria-hidden="true"><rect x="1" y="1" width="22" height="22" rx="4.5" fill="${color}"/><text x="12" y="17.2" text-anchor="middle" font-family="Space Grotesk" font-weight="700" font-size="13.5" fill="${BRAND.lavender}">in</text></svg>`;
   }
+  if (id === 'email') {
+    return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5"/><path d="M3.5 6.5l8.5 6.5 8.5-6.5"/></svg>`;
+  }
   if (id === 'site') {
     return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="${color}" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.6 3.9 5.8 3.9 9.5s-1.3 6.9-3.9 9.5c-2.6-2.6-3.9-5.8-3.9-9.5s1.3-6.9 3.9-9.5z"/></svg>`;
   }

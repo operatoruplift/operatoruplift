@@ -1,6 +1,6 @@
 // The opening and closing posters share the rvaclassic.xyz sky, so the profile starts and ends
 // in the same place as the portfolio.
-import { CTA, HERO, LINKS } from '../content.mjs';
+import { CTA, EMAIL, HERO, LINKS } from '../content.mjs';
 import { ARROW, BRAND, asset, esc } from '../theme.mjs';
 
 const W = 880;
@@ -67,7 +67,7 @@ export const cta = {
   width: W,
   link: LINKS.call,
   alt: `${CTA.title} ${CTA.line} `
-    + CTA.offers.map((o) => `${o.name}: ${o.price}. ${o.note}`).join(' ') + ` ${CTA.button}.`,
+    + CTA.offers.map((o) => `${o.name}: ${o.price}. ${o.note}`).join(' ') + ` ${CTA.button} at ${CALL_HOST}, or email ${EMAIL}.`,
   css: () => `${SKY_CSS}
 #card{width:${W}px;height:470px}
 .sky{height:620px;object-position:50% 0}
@@ -83,7 +83,7 @@ h2{font:800 66px/1 Saira;letter-spacing:-.02em;text-shadow:0 2px 26px rgba(30,40
 .btn{position:absolute;left:40px;bottom:38px;display:inline-flex;align-items:center;gap:12px;padding:17px 24px;border-radius:14px;
   background:${BRAND.cta};color:#fff;font:700 21px/1 'Space Grotesk';box-shadow:0 18px 36px -16px rgba(60,20,110,.7)}
 .btn .arrow{width:20px;height:20px}
-.host{position:absolute;right:40px;bottom:54px;font:600 15px/1 'Space Grotesk';color:${BRAND.graphite}}
+.host{position:absolute;right:40px;bottom:40px;text-align:right;font:600 15px/1.45 'Space Grotesk';color:${BRAND.graphite}}
 `,
   html: () => `
 <div id="card" class="poster">
@@ -97,6 +97,6 @@ h2{font:800 66px/1 Saira;letter-spacing:-.02em;text-shadow:0 2px 26px rgba(30,40
     ${CTA.offers.map((o) => `<div class="offer glass"><h3>${esc(o.name)}</h3><b>${esc(o.price)}</b><p>${esc(o.note)}</p></div>`).join('\n    ')}
   </div>
   <span class="btn">${esc(CTA.button)} ${ARROW}</span>
-  <span class="host">${esc(CALL_HOST)}</span>
+  <span class="host">${esc(CALL_HOST)}<br>or email ${esc(EMAIL)}</span>
 </div>`,
 };
