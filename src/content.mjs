@@ -76,6 +76,16 @@ export const BUILDS_INTRO = {
 // repo: public repos on this account. Private ones link to the live site instead.
 export const BUILDS = [
   {
+    slug: 'cold', name: 'COLD', tag: 'AI outbound · open source',
+    desc: 'Break the ice: cold DMs, emails, calls and prospect research, with every touch kept in Twenty CRM.',
+    url: 'https://coldthecompany.vercel.app', repo: 'operatoruplift/cold',
+  },
+  {
+    slug: 'dragon-connector', name: 'Dragon Connector', tag: 'Event · Da Nang',
+    desc: 'The Solana Mobile and AI hackathon I’m planning for Da Nang, with its proposal site and participant app.',
+    url: 'https://dragonconnector.vercel.app', repo: null,
+  },
+  {
     slug: 'allowance', name: 'Allowance', tag: 'AI agents · x402 · Solana',
     desc: 'Give your agent a budget. Human-approved spending for AI agents, with a receipt for every call.',
     url: 'https://allowanceonsolana.vercel.app', repo: 'operatoruplift/allowance',
