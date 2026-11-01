@@ -1,4 +1,4 @@
-// Every claim on the profile lives here, sourced from rvaclassic.xyz (October 2026).
+// Every claim on the profile lives here, sourced from rvaclassic.xyz (November 2026).
 // Brand rule: keep prize pools, accounts and personal earnings separate, and link finished work.
 
 // Published image location; the profile repo must be public with these files on main.
@@ -23,7 +23,7 @@ export const LINKS = {
 };
 
 // Facts that appear on more than one card.
-const PRIZE_FINISHES = '17';
+const PRIZE_FINISHES = '18';
 const DOOR_SALES = '$1M+';
 
 export const HERO = {
@@ -116,7 +116,7 @@ export const BUILDS = [
     url: 'https://evatarot.xyz', repo: 'operatoruplift/eva-tarot',
   },
   {
-    slug: 'velocity-ai', name: 'Velocity AI', tag: '1st place · OmniAI Voice',
+    slug: 'velocity-ai', name: 'Velocity AI', tag: '1st place · OmniDimension Voice AI',
     desc: 'Voice-AI speed to lead: it calls, qualifies and routes inbound leads.',
     url: 'https://omnivoiceai.vercel.app', repo: null,
   },
@@ -138,12 +138,13 @@ export const MORE_BUILDS = [
 export const WINS = {
   count: PRIZE_FINISHES,
   title: 'hackathon prize finishes',
-  line: 'Three first places, a DFlow win, and a Solana Foundation grant along the way.',
+  line: 'Three first places, wins at DFlow and NEAR Intents, and a Solana Foundation grant along the way.',
   rows: [
     { place: '1st', event: 'Superteam UK × HelpBnk', org: 'HelpBnk', pool: '$10,000 pool' },
     { place: '1st', event: 'MuShanghai Filecoin Hackathon', org: 'Filecoin', pool: '$1,500 pool' },
-    { place: '1st', event: 'OmniAI Voice Hackathon', org: 'OmniAI', pool: '$1,000 pool' },
+    { place: '1st', event: 'OmniDimension Voice AI Hackathon', org: 'OmniDimension', pool: '$1,000 pool' },
     { place: 'Winner', event: 'Superteam Thailand × DFlow', org: 'DFlow', pool: '$1,500 pool' },
+    { place: 'Winner', event: 'NEAR Intents Pitch Hackathon', org: 'NEAR', pool: 'San Francisco' },
     { place: '2nd', event: 'Superteam Malaysia Website', org: 'Superteam', pool: '$3,000 pool' },
     { place: '3rd', event: 'Stack Auth Hackathon', org: 'Stack Auth', pool: '$1,750 pool' },
     { place: 'Prize', event: 'Render Hackathon', org: 'Growzilla', pool: '$100,000 pool' },
