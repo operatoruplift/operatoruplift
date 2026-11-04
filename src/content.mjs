@@ -23,7 +23,7 @@ export const LINKS = {
 };
 
 // Facts that appear on more than one card.
-const PRIZE_FINISHES = '18';
+const PRIZE_FINISHES = '19';
 const DOOR_SALES = '$1M+';
 
 export const HERO = {
@@ -149,6 +149,7 @@ export const WINS = {
     { place: '3rd', event: 'Stack Auth Hackathon', org: 'Stack Auth', pool: '$1,750 pool' },
     { place: 'Prize', event: 'Render Hackathon', org: 'Growzilla', pool: '$100,000 pool' },
     { place: 'Prize ×3', event: 'Breakpoint London hackathons', org: 'Solana Foundation', pool: '$3,300 pool each' },
+    { place: 'Mention', event: 'CertiK × Colosseum Security Side Track', org: 'CertiK', pool: 'AI Auditor credits' },
   ],
   note: `Pools are event totals, not my payouts. All ${PRIZE_FINISHES} finishes are listed on rvaclassic.xyz.`,
 };

@@ -7,7 +7,7 @@ const LINE = 'rgba(244,244,246,.1)';
 
 const placeClass = (place) => {
   if (place === '1st') return 'first';
-  if (place.startsWith('Prize')) return 'prize';
+  if (place.startsWith('Prize') || place === 'Mention') return 'prize';
   return 'top';
 };
 
