@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/operatoruplift/cold"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/06-tile-cold.png?v=a8a8ada18e" alt="COLD. AI outbound · open source. Break the ice: cold DMs, emails, calls and prospect research, with every touch kept in Twenty CRM." width="49%"></a>
-  <a href="https://dragonconnector.vercel.app"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/07-tile-dragon-connector.png?v=2bbaf0df73" alt="Dragon Connector. Event · Da Nang. The Solana Mobile and AI hackathon I’m planning for Da Nang, with its proposal site and participant app." width="49%"></a>
+  <a href="https://dragonconnector.com"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/07-tile-dragon-connector.png?v=59d1ceea1a" alt="Dragon Connector. Event · Da Nang. The free two-day Solana mobile hackathon I’m running in Da Nang on 12 and 13 December 2026." width="49%"></a>
 </p>
 
 <p align="center">
