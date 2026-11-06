@@ -82,8 +82,8 @@ export const BUILDS = [
   },
   {
     slug: 'dragon-connector', name: 'Dragon Connector', tag: 'Event · Da Nang',
-    desc: 'The Solana Mobile and AI hackathon I’m planning for Da Nang, with its proposal site and participant app.',
-    url: 'https://dragonconnector.vercel.app', repo: null,
+    desc: 'The free two-day Solana mobile hackathon I’m running in Da Nang on 12 and 13 December 2026.',
+    url: 'https://dragonconnector.com', repo: null,
   },
   {
     slug: 'allowance', name: 'Allowance', tag: 'AI agents · x402 · Solana',
