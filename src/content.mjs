@@ -113,7 +113,7 @@ export const BUILDS = [
   {
     slug: 'eva-tarot', name: 'Eva Tarot', tag: 'Client build',
     desc: 'A bilingual tarot experience for a local Vietnamese business, with its launch video and social plan.',
-    url: 'https://evatarot.xyz', repo: 'operatoruplift/eva-tarot',
+    url: 'https://evatarot.xyz', repo: null,
   },
   {
     slug: 'velocity-ai', name: 'Velocity AI', tag: '1st place · OmniDimension Voice AI',
@@ -123,7 +123,7 @@ export const BUILDS = [
   {
     slug: 'striker-terminal', name: 'Striker Terminal', tag: 'Hackathon build',
     desc: 'A World Cup prediction terminal with programmable orders and collectible prediction receipts.',
-    url: 'https://strikerterminal.vercel.app', repo: 'operatoruplift/striker-terminal',
+    url: 'https://strikerterminal.vercel.app', repo: null,
   },
 ];
 

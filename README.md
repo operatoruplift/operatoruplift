@@ -41,12 +41,12 @@
 
 <p align="center">
   <a href="https://github.com/operatoruplift/road-to-bp2026-dlmm"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/12-tile-dlmm.png?v=98eadb15d3" alt="DLMM, zero to hero. Meteora · learning. A beginner-friendly Meteora DLMM guide with visual lessons, quizzes and a liquidity playground." width="49%"></a>
-  <a href="https://github.com/operatoruplift/eva-tarot"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/13-tile-eva-tarot.png?v=be9d61d857" alt="Eva Tarot. Client build. A bilingual tarot experience for a local Vietnamese business, with its launch video and social plan." width="49%"></a>
+  <a href="https://evatarot.xyz"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/13-tile-eva-tarot.png?v=649f8ce8e4" alt="Eva Tarot. Client build. A bilingual tarot experience for a local Vietnamese business, with its launch video and social plan." width="49%"></a>
 </p>
 
 <p align="center">
   <a href="https://omnivoiceai.vercel.app"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/14-tile-velocity-ai.png?v=23a4aa9f8a" alt="Velocity AI. 1st place · OmniDimension Voice AI. Voice-AI speed to lead: it calls, qualifies and routes inbound leads." width="49%"></a>
-  <a href="https://github.com/operatoruplift/striker-terminal"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/15-tile-striker-terminal.png?v=fc6d9444e1" alt="Striker Terminal. Hackathon build. A World Cup prediction terminal with programmable orders and collectible prediction receipts." width="49%"></a>
+  <a href="https://strikerterminal.vercel.app"><img src="https://raw.githubusercontent.com/operatoruplift/operatoruplift/main/img/15-tile-striker-terminal.png?v=8f40e09e6b" alt="Striker Terminal. Hackathon build. A World Cup prediction terminal with programmable orders and collectible prediction receipts." width="49%"></a>
 </p>
 
 <p align="center">
